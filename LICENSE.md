@@ -1,4 +1,4 @@
-
+```
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -200,7 +200,11 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+```
 
+---
+
+```
    All code in any directories or sub-directories that end with *.html or
    *.css is licensed under the Creative Commons Attribution International
    4.0 License, which full text can be found here:
@@ -210,3 +214,4 @@
    the software at the direction of the user is copyright the user. The
    user has full ownership and control over such content, including
    whether and how they wish to license it.
+```
