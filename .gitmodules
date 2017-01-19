@@ -1,3 +1,5 @@
 [submodule "dist"]
 	path = dist
 	url = https://github.com/EtherTyper/mdlite-website.git
+	update = checkout
+	branch = gh-pages
