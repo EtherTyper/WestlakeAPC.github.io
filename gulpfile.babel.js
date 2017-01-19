@@ -61,7 +61,10 @@ gulp.task('copy', () =>
   gulp.src([
     'app/*',
     '!app/*.html',
-    'node_modules/apache-server-configs/dist/.htaccess'
+    'node_modules/apache-server-configs/dist/.htaccess',
+    'README.md',
+    'LICENSE',
+    '.gitignore'
   ], {
     dot: true
   }).pipe(gulp.dest('dist'))
